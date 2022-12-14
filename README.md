@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**I-am-rish/I-am-rish** is a ✨ _special_ ✨
+**I-am-rish** is a ✨ _special_ ✨
 
 - 👋 Hi, I’m @I-am-rish
 - 🌱 I’m currently learning full stack web development
@@ -12,3 +12,4 @@
 - ⚡ Fun fact: ...
 
 
+![Screenshot_2020-06-26-20-22-18-35](https://user-images.githubusercontent.com/84262630/207671228-31d073c0-78ee-40af-8b04-060a85a96e09.png)
