@@ -1,3 +1,4 @@
+<h1>< Jay Shree Krishna 💖</h1>
 <img height="250px" width="100%" right="0" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" />
 <h1 align="center">Hi there 👋, I'm Amrish Kumar </h1>
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=%23fff&width=435&lines=❤+A+Passionate+MERN+Stack+Developer" alt="Typing SVG" /></a></p>
@@ -22,3 +23,6 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=I-am-rish&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/I-am-rish/github-readme-stats)
+
+
+<h1> Jay Shree Krishna 💖 /></h1>
