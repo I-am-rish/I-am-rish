@@ -1,6 +1,6 @@
 <img height="250px" width="100%" right="0" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" />
 <h1 align="center">Hi there 👋, I'm Amrish Kumar </h1>
-<h2> A Passionate MERN Stack Developer From India</h2>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=%23fff&width=435&lines=❤+A+Passionate+MERN+Stack+Developer" alt="Typing SVG" /></a></p>
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 I’m a MERN Stack Developer
