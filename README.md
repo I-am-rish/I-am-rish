@@ -1,12 +1,20 @@
 <img height="250px" width="100%" right="0" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" />
 <h1 align="center">Hi there 👋, I'm Amrish Kumar </h1>
-<h2> A Passionate Software Developer From India</h2>
+<h2> A Passionate MERN Stack Developer From India</h2>
+<h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 I’m a MERN Stack Developer
 - 🌱 I’m currently trying hands on developing & competitive programming
 - 👯 I’m looking to collaborate on open source projects
 - 📫 How to reach me --> <a>ak3754732@gmail.com</a>
 - ⚡ Fun fact: DSA is mY gF😍
+
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Java | DSA | JavaScript | MERN  
+- 🌐 &nbsp; MERN-Stack | HTML | CSS | JavaScript | React | Bootstrap | Sass | MongoDB | ExpressJS | NodeJS
+- 🛢 &nbsp; NoSQL | Firebase | Postman
+- 🔧 &nbsp; Visual Studio code  | Git
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=I-am-rish&theme=submarine-flowers&border_radius=5&fire=DD701B)](https://git.io/streak-stats)
 
