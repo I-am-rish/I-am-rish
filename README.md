@@ -23,6 +23,9 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=I-am-rish&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/I-am-rish/github-readme-stats)
+  
+  <img src="https://tryhackme-badges.s3.amazonaws.com/amrishkumar123.png" alt="TryHackMe">
+
 
 
 <h1> Jay Shree Krishna 💖 /></h1>
