@@ -1,4 +1,4 @@
-<h1>< Jay Shree Krishna 💖 ></h1>
+
 <img height="250px" width="100%" right="0" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" />
 <h1 align="center">Hi there 👋, I'm Amrish Kumar </h1>
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=%23fff&width=435&lines=❤+A+Passionate+MERN+Stack+Developer" alt="Typing SVG" /></a></p>
@@ -28,4 +28,3 @@
 
 
 
-<h1>< Jay Shree Krishna 💖 /></h1>
